@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1474844593 source:c:\users\f·30\desktop\tp02\estructura\tp02_estructura\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1474844640 c:\users\f·30\desktop\tp02\estructura\tp02_estructura\funciones.h
+
+1474844664 source:c:\users\f·30\desktop\tp02\estructura\tp02_estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
