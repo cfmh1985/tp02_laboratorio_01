@@ -10,6 +10,7 @@ flag de estado.
 
 Hacer un programa que defina un array de 20 ítems de esta estructura y con un menú como el
 siguiente:
+
 1. Agregar una persona
 2. Borrar una persona
 3. Imprimir lista ordenada por nombre
